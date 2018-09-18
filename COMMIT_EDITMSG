@@ -1,0 +1,16 @@
+Revert "Revert "adding c filewq12""
+
+This reverts commit 59a996e177d3383e1a0e4c3216d40fe0c167458e.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Prashanth Koripelly <prashako@amdocs.com>
+#
+# On branch v2
+# Changes to be committed:
+#	new file:   d
+#
+# Untracked files:
+#	c
+#
